@@ -1,0 +1,15 @@
+{
+  "max_displayed_notes": 500,
+  "enable_debug_log": true,
+  "tag_exported_cards": true,
+  "exported_tag": "cropro_exported",
+  "hidden_fields": [
+    "furigana",
+    "image",
+    "audio"
+  ],
+  "skip_duplicates": true,
+  "copy_tags": true,
+  "allow_empty_search": false,
+  "preview_on_right_side": true
+}
